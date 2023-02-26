@@ -1,6 +1,7 @@
 name: "erekir-maps"
-displayName: "Project Erekir [DevBuild]"
+displayName: "Project Erekir"
 description: "Adds a Erekir variation for the standart maps"
 author: "夜狐/Yoru Kitsune"
-version: "db.0.0.1"
+version: "0.0.1"
 minGameVersion: "142"
+repo: Yoru-Kitsune/Project-Erekir
