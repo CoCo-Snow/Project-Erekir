@@ -5,5 +5,5 @@ A Mod that adds Erekir variations to standart maps
 ### Erekir Caldera
 > So far there aren't waves pre-setted, so you might make your own
 
-### Erepelargo
+### Erepelago
 > So far there aren't waves pre-setted, so you might make your own
