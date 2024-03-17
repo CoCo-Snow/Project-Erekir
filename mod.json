@@ -1,6 +1,7 @@
 name: "pe-mappack"
 displayName: "Project: Erekir"
-description: "Adds a Erekir variation to the standard maps"
+description: "Adds an Erekir variation to the standard maps"
+subtitle: "Release: 0.0.1"
 author: "CoCo Snow"
 version: "0.0.1"
 minGameVersion: "146"
