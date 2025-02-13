@@ -1,3 +1,5 @@
+# Development Discontinued
+
 # Project-Erekir
 A Mod that adds Erekir variations to standart maps
 
